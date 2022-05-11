@@ -8,6 +8,8 @@ https://next-with-cube-charts.vercel.app
 
 By SHADID HAQUE https://github.com/Shadid12
 
+https://mydashboard-ten.vercel.app/
+
 https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr
 
 https://github.com/Shadid12/next-with-cube
